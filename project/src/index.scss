@@ -1,0 +1,10 @@
+@import "containers/Wrapper/styles.scss";
+@import "containers/Home/styles.scss";
+@import "components/Header/styles.scss";
+@import "components/Search/styles.scss";
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+  margin: 0 !important;
+  background-color: #fdfdfd;
+}

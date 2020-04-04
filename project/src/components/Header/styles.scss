@@ -1,0 +1,18 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    min-height: 50px;
+    display: flex;
+    padding-left: 40px;
+    padding-right: 40px;
+    align-items: center;
+    background: #fff8f8;
+    color: #999999;
+    box-shadow: -10px 0px 10px #dedede;
+    justify-content: space-between;
+}
+
+.header-text {
+    cursor: pointer;
+}
